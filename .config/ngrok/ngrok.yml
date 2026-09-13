@@ -1,0 +1,7 @@
+version: '2'
+tunnels:
+    app:
+        proto: http
+        addr: 5000
+        domain: object-crept-trinity.ngrok-free.dev
+authtoken: 3IaBlUFQDedSAaayAEIHOHzhr2s_7N4pRoVSJs2v5uruXCze9

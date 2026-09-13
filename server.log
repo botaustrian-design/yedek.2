@@ -1,0 +1,5 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/app.py", line 2, in <module>
+    from flask import Flask, request
+ModuleNotFoundError: No module named 'flask'

@@ -1,0 +1,7 @@
+{
+  "target_url": "https://harder-cheats-societies-think.trycloudflare.com/login",
+  "username": "kullandigin_kullanici_adi",
+  "wordlist_path": "wordlist.txt",
+  "delay_seconds": 1.0,
+  "success_indicator": "Welcome"
+}
